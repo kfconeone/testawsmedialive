@@ -12,7 +12,7 @@ import videojs from 'video.js'
 export default {
   data() {
     return {
-      hlsUrl: "http://cx7nx2tbdgudme.data.mediastore.us-east-1.amazonaws.com/livea/main.m3u8"
+      hlsUrl: "https://cx7nx2tbdgudme.data.mediastore.us-east-1.amazonaws.com/livea/main.m3u8"
     }
   },
   mounted() {
