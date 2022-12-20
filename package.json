@@ -11,6 +11,8 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
-    "video.js": "^7.20.3"
+    "@types/video.js": "^7.3.50",
+    "video.js": "^7.20.3",
+    "wowza-webrtc-player": "^1.0.5"
   }
 }
